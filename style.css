@@ -1,3 +1,17 @@
 body {
-  background-color: bisque;
+  background-color: burlywood;
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.links a {
+  color: saddlebrown;
+}
+
+.image {
+  border-radius: 10px;
 }
