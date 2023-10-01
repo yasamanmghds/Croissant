@@ -14,4 +14,6 @@ body {
 
 .image {
   border-radius: 10px;
+  width: 40%;
+  margin: 20px 0;
 }
